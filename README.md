@@ -14,12 +14,11 @@
 
 ### 🧰 Linguagens e Ferramentas
 
-<!-- <div style="display: flex; justify-content: center; gap: 10px;"> -->
-<center>
+<div style="display: flex; justify-content: center; flex-direction: row; gap: 10px;">
     <img alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
     <img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
     <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
     <img alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
     <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<center>
-<!-- </div> -->
+</div>
+
