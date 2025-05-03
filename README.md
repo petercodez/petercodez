@@ -10,13 +10,12 @@
     <img src="imgs/shell.gif">
 </div>
 
+---
 
 ### 📩 Contato(s)
 <p align="center">
-    <a href="https://www.linkedin.com/in/pedro-lourenco-codes/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="imgs/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.webp"/>
+    <a href="https://www.linkedin.com/in/pedro-lourenco-codes/"><img width="35px" alt="LinkedIn" title="LinkedIn" src="imgs/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.webp"/>
 </p>
-
----
 
 ### 🧰 Linguagens e Ferramentas
 
