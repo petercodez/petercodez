@@ -1,6 +1,6 @@
 # ☄ Pedro Lourenço
 
-**Digital Craftsman (Dev Front-End/Editor de Vídeos/Criador)**
+**`Digital Craftsman (Dev Front-End/Editor de Vídeos/Criador)`**
 
 <p align="justify">
     Sou estudante de Ciência da Computação e estou no primeiro semestre. Antes de ingressar na faculdade eu estudei Desenvolvimento Front-End no SENAI e atualmente também estou fazendo outro curso na mesma instituição voltado para Desenvolvimento Full Stack. No momento estou estudando a linguagem "C" na faculdade e o curso de Full Stack tem como foco HTML, JavaScript e C# (e alguns frameworks). Tenho interesse nas áreas de Inteligência Artificial (machine learning) e suas aplicações, gaming e Desenvolvimento Web.
@@ -10,6 +10,8 @@
     <img src="imgs/shell.gif">
 </div>
 
+
+### 📩 Contato(s)
 <p align="center">
     <a href="https://www.linkedin.com/in/pedro-lourenco-codes/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="imgs/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.webp"/>
 </p>
