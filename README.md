@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-    <img src="imgs/e28d61b0ce1b686bbd9c19b98912101f.gif">
+    <img src="imgs/shell.gif">
 </div>
 
 ---
