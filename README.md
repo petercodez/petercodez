@@ -3,7 +3,7 @@
 **`Digital Craftsman (Dev Front-End/Editor de Vídeos/Criador)`**
 
 <p align="justify">
-    Sou estudante de Ciência da Computação e estou no primeiro semestre. Antes de ingressar na faculdade eu estudei Desenvolvimento Front-End no SENAI e atualmente também estou fazendo outro curso na mesma instituição voltado para Desenvolvimento Full Stack. No momento estou estudando a linguagem "C" na faculdade e o curso de Full Stack tem como foco HTML, JavaScript e C# (e alguns frameworks). Tenho interesse nas áreas de Inteligência Artificial (machine learning) e suas aplicações, gaming e Desenvolvimento Web.
+    Sou estudante de Ciência da Computação e estou no primeiro semestre. Antes de ingressar na faculdade eu estudei Desenvolvimento Front-End no SENAI e atualmente também estou fazendo outro curso na mesma instituição voltado para Desenvolvimento Full Stack. No momento estou estudando a linguagem "C" na faculdade e o curso de Full Stack tem como foco HTML, JavaScript e C# (e alguns frameworks). Tenho interesse nas áreas de Inteligência Artificial (machine learning) e suas aplicações, gaming e Desenvolvimento Web, Cibersegurança, Dados... (basicamente não descarto nada).
 </p>
 
 <div align="center">
